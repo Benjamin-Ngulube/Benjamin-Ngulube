@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### This is Benjamin Ngulube
-<!--
 
-- 🔭 I’m an enthusiast of pushing tech in Africa.
-- 📫 You can reach me on Facebook or Instagram @Benjamin Ngulube.
+🚀 .NET Developer | AI & IoT Enthusiast
+
+Passionate about building software with .NET, exploring AI & Machine Learning, and integrating IoT solutions. Always learning and innovating!
+
+- 📫 You can reach me on Facebook, LinkedIn or Instagram @Benjamin Ngulube.
