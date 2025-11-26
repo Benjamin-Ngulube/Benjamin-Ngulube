@@ -22,67 +22,28 @@ I’m a passionate **.NET Developer**, **AI/IoT Innovator**, and **Computer Engi
 
 ## 🧠 Core Skills & Technologies
 
-### 🛠️ Languages & Frameworks
-
-✔️ C# · .NET · Python · Flask
-✔️ HTML · CSS · JavaScript
-
-### 🤖 AI & Machine Learning
-
-✔️ TensorFlow Lite
-✔️ Computer Vision
-✔️ Model Quantization & Optimization
-
-### 📡 IoT & Embedded Systems
-
-✔️ ESP32 / ESP8266
-✔️ Neo-6M GPS
-✔️ ADXL Accelerometer
-✔️ Sensor Fusion (Kalman Filter)
-
-### 🧰 Tools & Platforms
-
-✔️ Git · Docker · SQLite
-✔️ REST APIs · WebSockets
-✔️ Cloud & Edge Deployment
-
-
-## 🚀 Featured Projects
-
-### 🚦 **Driver Traffic Sign Recognition Assistant**
-
-AI traffic sign recognition using ESP32-CAM, GPS geofencing, and sensor fusion — fully integrated with a Flask API + real-time WebSocket dashboard.
-
-### 🌽 **Maize Doc**
-
-AI-powered maize disease detection app that provides actionable solutions.
-
-### 🛰️ **Real-Time IoT Monitoring Dashboard**
-
-Live GPS, telemetry, speed prediction, and mapped geofence alerts.
-
-
-## 🏆 Leadership & Community Impact
-
-* 👨‍💼 **Former ICTAZ CBU Chapter President**
-
-  * Introduced new tech clubs: Data Science, Robotics, Cybersecurity, Programming, Networking
-  * Organized Women in Tech events & programs aired on national TV
-  * Worked on innovative projects like the *Kopala Smart Helmet*
-
-* 🚀 **Founder @ TikulaTech**
-  Empowering youth through tech education, community projects, and innovation.
+| Category | Technologies / Tools |
+|---------|------------------------|
+| **Languages & Frameworks** | C#, .NET, Python, Flask, JavaScript, HTML, CSS |
+| **AI & Machine Learning** | TensorFlow Lite, Computer Vision, Model Quantization, Model Optimization |
+| **IoT & Embedded Systems** | ESP32, ESP8266, Neo-6M GPS, ADXL Accelerometer, Sensor Fusion (Kalman Filter) |
+| **Databases** | PostgreSQL, MySQL, SQLite, HeidiSQL |
+| **Tools & Platforms** | Git, Docker, REST APIs, WebSockets, Cloud & Edge Deployment |
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BenjaCoding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaCoding&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-Ngulube&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=BenjaCoding&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Benjamin-Ngulube&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Benjamin-Ngulube&label=Visitors&color=blueviolet&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 
