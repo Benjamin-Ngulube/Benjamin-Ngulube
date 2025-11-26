@@ -57,16 +57,9 @@ I build intelligent systems that combine **AI**, **embedded hardware**, and **so
 | **Databases** | PostgreSQL, MySQL, SQLite, HeidiSQL |
 | **Tools & Platforms** | Git, Docker, REST APIs, WebSockets, Cloud/Edge Deployment |
 
-# GitHub Stats  
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Benjamin-Ngulube&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=Benjamin-Ngulube&theme=tokyonight&hide_border=true" />
-</p>
+# ⚡ Fun Fact  
+If it involves **AI**, **sensors**, **IoT**, or **building something powerful**, I’m all in.
 
 
 # Connect With Me  
@@ -92,9 +85,5 @@ I build intelligent systems that combine **AI**, **embedded hardware**, and **so
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
-# ⚡ Fun Fact  
-If it involves **AI**, **sensors**, **IoT**, or **building something powerful**, I’m all in.
 
 
