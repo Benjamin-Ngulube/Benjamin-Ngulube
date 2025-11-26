@@ -16,9 +16,9 @@ Hi! I'm **Benjamin Ngulube**, a passionate **Computer Scientist**, **.NET Develo
 I build intelligent systems that combine **AI**, **embedded hardware**, and **software engineering** to solve real-world challenges — especially in areas like **transportation**, **agriculture**, **automation**, and **data-driven systems**.
 
 
-# 🧠 Core Skills & Technologies  
+# Core Skills & Technologies  
 
-## 🏷️ Tech Stack Badges  
+## Tech Stack Badges  
 <p align="center">
 
 <!-- Languages -->
@@ -57,29 +57,7 @@ I build intelligent systems that combine **AI**, **embedded hardware**, and **so
 | **Databases** | PostgreSQL, MySQL, SQLite, HeidiSQL |
 | **Tools & Platforms** | Git, Docker, REST APIs, WebSockets, Cloud/Edge Deployment |
 
-# 🚀 Featured Projects  
-
-### 🚦 **Driver Traffic Sign Recognition Assistant**  
-AI traffic sign detection on an ESP32-CAM, GPS geofencing, Flask API, sensor fusion, and live dashboards.
-
-### 🌽 **Maize Doc**  
-An AI-powered maize disease classifier that gives accurate diagnosis and actionable solutions.
-
-### 🛰️ **IoT Real-Time Tracking & Telemetry System**  
-Live GPS tracking, geofence violations, speed estimation, and real-time WebSocket integration.
-
-
-# 🏆 Leadership & Community Contributions  
-
-- **Former ICTAZ CBU Chapter President**  
-  - Introduced Robotics, Cybersecurity, Data Science, Programming & Networking Clubs  
-  - Organized Women in Tech events featured on national TV  
-  - Contributed to **Kopala Smart Helmet** (AI + sensors for miners)
-
-- **Co-founder — TikulaTech**  
-  Empowering Zambia’s youth with digital skills, mentorship, and innovation programs.
-
-# 📊 GitHub Stats  
+# GitHub Stats  
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -91,7 +69,14 @@ Live GPS tracking, geofence violations, speed estimation, and real-time WebSocke
 </p>
 
 
-# 📫 Connect With Me  
+# Connect With Me  
+<p align="center">
+  <b>I'm passionate about building meaningful systems, contributing to impactful projects, and solving real-world problems with code. Lets connect</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Benjamin-Ngulube&style=for-the-badge&color=blue" />
+</p>
 
 <p align="center">
   <a href="mailto:benjaminngulube17@gmail.com">
@@ -111,4 +96,9 @@ Live GPS tracking, geofence violations, speed estimation, and real-time WebSocke
 
 # ⚡ Fun Fact  
 If it involves **AI**, **sensors**, **IoT**, or **building something powerful**, I’m all in.
+
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Benjamin%20Ngulube&fontSize=45&fontAlignY=35&desc=Computer%20Scientist%20|%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55" />
+</p>
 
