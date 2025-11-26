@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=32&center=true&vCenter=true&width=850&lines=Benjamin+Ngulube;Computer+Scientist+%7C+.NET+Developer;AI+%26+IoT+Innovator;Tech+Community+Leader;Always+Learning+%26+Building!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=850&lines=Benjamin+Ngulube;Computer+Scientist+%7C+.NET+Developer;AI+%26+IoT+Innovator;Tech+Community+Leader;Always+Learning+%26+Building!">
 </p>
 
 <!-- Visitor Counter -->
@@ -9,16 +9,16 @@
 </p>
 
 
-# 👋 About Me  
+## 👋 About Me  
 
 Hi! I'm **Benjamin Ngulube**, a passionate **Computer Scientist**, **.NET Developer**, and **AI/IoT Innovator** from Zambia.  
 
 I build intelligent systems that combine **AI**, **embedded hardware**, and **software engineering** to solve real-world challenges — especially in areas like **transportation**, **agriculture**, **automation**, and **data-driven systems**.
 
 
-# Core Skills & Technologies  
+## Core Skills & Technologies  
 
-## Tech Stack Badges  
+### Tech Stack Badges  
 <p align="center">
 
 <!-- Languages -->
@@ -47,7 +47,7 @@ I build intelligent systems that combine **AI**, **embedded hardware**, and **so
 
 </p>
 
-## 📚 Skills Table  
+### 📚 Skills Table  
 
 | Category | Technologies / Tools |
 |---------|------------------------|
@@ -58,13 +58,13 @@ I build intelligent systems that combine **AI**, **embedded hardware**, and **so
 | **Tools & Platforms** | Git, Docker, REST APIs, WebSockets, Cloud/Edge Deployment |
 
 
-# ⚡ Fun Fact  
+## ⚡ Fun Fact  
 If it involves **AI**, **sensors**, **IoT**, or **building something powerful**, I’m all in.
 
 
-# Connect With Me  
+## Connect With Me  
 <p align="center">
-  <b>I'm passionate about building meaningful systems, contributing to impactful projects, and solving real-world problems with code. Lets connect</b>
+  <b>I'm passionate about building meaningful systems, contributing to impactful projects, and solving real-world problems with code. Let's connect!</b>
 </p>
 
 <p align="center">
@@ -85,5 +85,3 @@ If it involves **AI**, **sensors**, **IoT**, or **building something powerful**,
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-
