@@ -1,26 +1,24 @@
-# 👋 Hi there, I'm **Benjamin Ngulube**
-
-<!-- Animated Typing Header -->
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=700&lines=.NET+Developer;AI+%26+IoT+Innovator;Computer+Engineering+Student;Tech+Community+Leader;Always+Learning+%26+Building!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=32&center=true&vCenter=true&width=850&lines=Benjamin+Ngulube;Computer+Scientist+%7C+.NET+Developer;AI+%26+IoT+Innovator;Tech+Community+Leader;Always+Learning+%26+Building!">
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Benjamin-Ngulube&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 
-## 🚀 About Me
+# 👋 About Me  
 
-I’m a passionate **.NET Developer**, **AI/IoT Innovator**, and **Computer Engineering student** dedicated to building intelligent, real-world systems that blend **hardware**, **software**, and **AI**.
+Hi! I'm **Benjamin Ngulube**, a passionate **Computer Scientist**, **.NET Developer**, and **AI/IoT Innovator** from Zambia.  
 
-### 🔥 What I Do
+I build intelligent systems that combine **AI**, **embedded hardware**, and **software engineering** to solve real-world challenges — especially in areas like **transportation**, **agriculture**, **automation**, and **data-driven systems**.
 
-* 🤖 Build AI-powered applications
-* 🌐 Develop Flask/.NET backend systems with real-time data
-* 📡 Integrate IoT devices (ESP32, ESP8266, GPS, accelerometers)
-* 🛰️ Work with geofencing, sensor fusion & computer vision
-* 👨‍💻 Lead and grow tech communities in Zambia
 
-## 🏷️ Technologies & Tools
+# 🧠 Core Skills & Technologies  
 
+## 🏷️ Tech Stack Badges  
 <p align="center">
 
 <!-- Languages -->
@@ -37,6 +35,7 @@ I’m a passionate **.NET Developer**, **AI/IoT Innovator**, and **Computer Engi
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/HeidiSQL-4D4D4D?style=for-the-badge&logo=databricks&logoColor=white" />
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -48,32 +47,68 @@ I’m a passionate **.NET Developer**, **AI/IoT Innovator**, and **Computer Engi
 
 </p>
 
+## 📚 Skills Table  
+
+| Category | Technologies / Tools |
+|---------|------------------------|
+| **Languages & Frameworks** | C#, .NET, Python, Flask, JavaScript, HTML, CSS |
+| **AI & Machine Learning** | TensorFlow Lite, Computer Vision, Model Quantization, Optimization |
+| **IoT & Embedded Systems** | ESP32, ESP8266, Neo-6M GPS, ADXL Accelerometer, Sensor Fusion (Kalman Filter) |
+| **Databases** | PostgreSQL, MySQL, SQLite, HeidiSQL |
+| **Tools & Platforms** | Git, Docker, REST APIs, WebSockets, Cloud/Edge Deployment |
+
+# 🚀 Featured Projects  
+
+### 🚦 **Driver Traffic Sign Recognition Assistant**  
+AI traffic sign detection on an ESP32-CAM, GPS geofencing, Flask API, sensor fusion, and live dashboards.
+
+### 🌽 **Maize Doc**  
+An AI-powered maize disease classifier that gives accurate diagnosis and actionable solutions.
+
+### 🛰️ **IoT Real-Time Tracking & Telemetry System**  
+Live GPS tracking, geofence violations, speed estimation, and real-time WebSocket integration.
 
 
-## 📊 GitHub Stats
+# 🏆 Leadership & Community Contributions  
+
+- **Former ICTAZ CBU Chapter President**  
+  - Introduced Robotics, Cybersecurity, Data Science, Programming & Networking Clubs  
+  - Organized Women in Tech events featured on national TV  
+  - Contributed to **Kopala Smart Helmet** (AI + sensors for miners)
+
+- **Co-founder — TikulaTech**  
+  Empowering Zambia’s youth with digital skills, mentorship, and innovation programs.
+
+# 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Benjamin-Ngulube&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Benjamin-Ngulube&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Benjamin-Ngulube&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Benjamin-Ngulube&theme=tokyonight&hide_border=true" />
 </p>
+
+
+# 📫 Connect With Me  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Benjamin-Ngulube&label=Visitors&color=blueviolet&style=for-the-badge" />
+  <a href="mailto:benjaminngulube17@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 
-## 📫 Connect With Me
-
-📌 **Facebook / Instagram / LinkedIn:** @Benjamin Ngulube
-📩 **Email:** **[benjaminngulube17@gmail.com](mailto:benjaminngulube17@gmail.com)**
-
-
-## ⚡ Fun Fact
-
-If it has **AI**, **sensors**, **IoT**, or **real-world problem solving**, I’m all in.
-
+# ⚡ Fun Fact  
+If it involves **AI**, **sensors**, **IoT**, or **building something powerful**, I’m all in.
 
