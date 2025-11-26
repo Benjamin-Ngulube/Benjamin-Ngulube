@@ -13,7 +13,7 @@
 
 Hi! I'm **Benjamin Ngulube**, a passionate **Computer Scientist**, **.NET Developer**, and **AI/IoT Innovator** from Zambia.  
 
-I build intelligent systems that combine **AI**, **embedded hardware**, and **software engineering** to solve real-world challenges — especially in areas like **transportation**, **agriculture**, **automation**, and **data-driven systems**.
+I build intelligent systems that combine **AI**, **embedded hardware**, and **software engineering** to solve real-world challenges especially in areas like **transportation**, **agriculture**, **automation**, and **data-driven systems**.
 
 
 ## Core Skills & Technologies  
