@@ -19,23 +19,42 @@ I’m a passionate **.NET Developer**, **AI/IoT Innovator**, and **Computer Engi
 * 🛰️ Work with geofencing, sensor fusion & computer vision
 * 👨‍💻 Lead and grow tech communities in Zambia
 
+## 🏷️ Technologies & Tools
 
-## 🧠 Core Skills & Technologies
+<p align="center">
 
-| Category | Technologies / Tools |
-|---------|------------------------|
-| **Languages & Frameworks** | C#, .NET, Python, Flask, JavaScript, HTML, CSS |
-| **AI & Machine Learning** | TensorFlow Lite, Computer Vision, Model Quantization, Model Optimization |
-| **IoT & Embedded Systems** | ESP32, ESP8266, Neo-6M GPS, ADXL Accelerometer, Sensor Fusion (Kalman Filter) |
-| **Databases** | PostgreSQL, MySQL, SQLite, HeidiSQL |
-| **Tools & Platforms** | Git, Docker, REST APIs, WebSockets, Cloud & Edge Deployment |
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<!-- IoT & Embedded -->
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+
+</p>
+
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-Ngulube&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Benjamin-Ngulube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Benjamin-Ngulube&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -43,7 +62,7 @@ I’m a passionate **.NET Developer**, **AI/IoT Innovator**, and **Computer Engi
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Benjamin-Ngulube&label=Visitors&color=blueviolet&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Benjamin-Ngulube&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 
