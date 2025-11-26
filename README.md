@@ -97,8 +97,4 @@ I build intelligent systems that combine **AI**, **embedded hardware**, and **so
 # ⚡ Fun Fact  
 If it involves **AI**, **sensors**, **IoT**, or **building something powerful**, I’m all in.
 
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Benjamin%20Ngulube&fontSize=45&fontAlignY=35&desc=Computer%20Scientist%20|%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55" />
-</p>
 
